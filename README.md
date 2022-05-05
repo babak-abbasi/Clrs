@@ -4,13 +4,17 @@
 <details><summary>Project's structure</summary>
   <ul>
     <li>
-      ![Red text](Clrs-Service)<br> A dotnet class library project contaning clrs book's algorihtms.<br>
+      Clrs-Service<br> A dotnet class library project contaning clrs book's algorihtms.<br>
     </li>
     <li>
-      ![Red text]Clrs-Console<br> -> A dotnet console project to test for yourself.<br>
+      Clrs-Console<br> -> A dotnet console project to test for yourself.<br>
     </li>
     <li>
-      ![Red text]Clrs-Test<br> -> A dotnet nunit project to write diffrent tests for the algorithms.<br>
+      Clrs-Test<br> -> A dotnet nunit project to write diffrent tests for the algorithms.<br>
     </li>
  </ul>
 </details>
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
