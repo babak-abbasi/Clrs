@@ -21,4 +21,13 @@ public class InsertionMethodTests
 
         Assert.That(insertionSorted, Is.EqualTo(sortedArray));
     }
+
+     [Test]
+    public void InsertionMethodDescendingTest()
+    {
+        var sortedArray = new int[]{6,5,4,3,2,1};
+        var insertionSorted = array.SortDescending();
+
+        Assert.That(insertionSorted, Is.EqualTo(sortedArray));
+    }
 }
