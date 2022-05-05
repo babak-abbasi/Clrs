@@ -4,7 +4,7 @@
 <details><summary>Project's structure</summary>
   <ul>
     <li>
-      ![Red text]Clrs-Service<br> A dotnet class library project contaning clrs book's algorihtms.<br>
+      ![Red text](Clrs-Service)<br> A dotnet class library project contaning clrs book's algorihtms.<br>
     </li>
     <li>
       ![Red text]Clrs-Console<br> -> A dotnet console project to test for yourself.<br>
