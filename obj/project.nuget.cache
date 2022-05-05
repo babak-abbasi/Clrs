@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HdCO6gbVglCkouvLv4rH2nydfmnE6ZVNqzpn1pzUa5rdn68WZeGbcaQwqsQS1yes3PP4A2tX3am3elxxlgw6vw==",
+  "dgSpecHash": "QGQBtPWidnRa9sJ67Q6POzhniWF6S4N8jYizf+LKDJLiaQpxWA7t5Q0gmgwTbx3IUMrBFeKw7lPDWgjdaODhiA==",
   "success": true,
-  "projectFilePath": "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\Clrs.csproj",
+  "projectFilePath": "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\Clrs-Console\\Clrs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

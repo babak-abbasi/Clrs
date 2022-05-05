@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\Clrs.csproj": {}
+    "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\Clrs-Console\\Clrs.csproj": {}
   },
   "projects": {
-    "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\Clrs.csproj": {
+    "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\Clrs-Console\\Clrs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\Clrs.csproj",
+        "projectUniqueName": "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\Clrs-Console\\Clrs.csproj",
         "projectName": "Clrs",
-        "projectPath": "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\Clrs.csproj",
+        "projectPath": "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\Clrs-Console\\Clrs.csproj",
         "packagesPath": "C:\\Users\\babak\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\obj\\",
+        "outputPath": "D:\\Programming contents\\Projects\\Dotnet Core\\Consoles\\Clrs\\Clrs-Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\babak\\AppData\\Roaming\\NuGet\\NuGet.Config"
