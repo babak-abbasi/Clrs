@@ -4,13 +4,13 @@
 <details><summary>Structure</summary>
   <ul>
     <li>
-      <br color="red">Clrs-Service</br> -> A dotnet class library project contaning clrs book's algorihtms.  
+      <label color="red">Clrs-Service</label><br> -> A dotnet class library project contaning clrs book's algorihtms.<br>
     </li>
     <li>
-      <br color="red">Clrs-Console</br> -> A dotnet console project to test for yourself.  
+      <label color="red">Clrs-Console</label><br> -> A dotnet console project to test for yourself.<br>
     </li>
     <li>
-      <br color="red">Clrs-Test</br> -> A dotnet nunit project to write diffrent tests for the algorithms.  
+      <label color="red">Clrs-Test</label><br> -> A dotnet nunit project to write diffrent tests for the algorithms.<br>
     </li>
  </ul>
 </details>
