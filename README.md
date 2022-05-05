@@ -1,6 +1,8 @@
 # Clrs
-Implementing algorithms of clrs book in dotnet c#.
+## Implementing algorithms of clrs book in dotnet c#.
 
-Clrs-Service -> A dotnet class library project contaning clrs book's algorihtms.  
-Clrs-Console -> A dotnet console project to test for yourself.  
-Clrs-Test -> A dotnet nunit project to write diffrent tests for the algorithms.  
+<details><summary>Structure</summary>
+- <font color="red">Clrs-Service</font> -> A dotnet class library project contaning clrs book's algorihtms.  
+- <font color="red">Clrs-Console</font> -> A dotnet console project to test for yourself.  
+- <font color="red">Clrs-Test</font> -> A dotnet nunit project to write diffrent tests for the algorithms.  
+</details>
