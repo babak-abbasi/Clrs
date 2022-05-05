@@ -1,7 +1,7 @@
 # Clrs
 ## Implementing algorithms of clrs book in dotnet c#.
 
-<details><summary>Project's structure</summary>
+<details><summary><h2>Project's structure</h2></summary>
   <ul>
     <li>
       Clrs-Service<br> A dotnet class library project contaning clrs book's algorihtms.<br>
@@ -14,6 +14,7 @@
     </li>
  </ul>
 </details>
+## License
 <h2>
 <g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji>
 This project is under the <a href="https://opensource.org/licenses/MIT" rel="nofollow">MIT</a> license.  
