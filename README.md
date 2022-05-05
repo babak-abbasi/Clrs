@@ -7,14 +7,11 @@
       Clrs-Service<br> A dotnet class library project contaning clrs book's algorihtms.<br>
     </li>
     <li>
-      Clrs-Console<br> -> A dotnet console project to test for yourself.<br>
+      Clrs-Console<br> A dotnet console project to test for yourself.<br>
     </li>
     <li>
-      Clrs-Test<br> -> A dotnet nunit project to write diffrent tests for the algorithms.<br>
+      Clrs-Test<br> A dotnet nunit project to write diffrent tests for the algorithms.<br>
     </li>
  </ul>
 </details>
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
+<g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji>
