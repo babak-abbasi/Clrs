@@ -14,4 +14,7 @@
     </li>
  </ul>
 </details>
+<h2>
 <g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji>
+This project is under the <a href="https://opensource.org/licenses/MIT" rel="nofollow">MIT</a> license.  
+</h2>
