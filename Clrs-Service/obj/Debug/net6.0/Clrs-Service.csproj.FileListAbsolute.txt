@@ -1,0 +1,12 @@
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\bin\Debug\net6.0\Clrs-Service.deps.json
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\bin\Debug\net6.0\Clrs-Service.dll
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\bin\Debug\net6.0\ref\Clrs-Service.dll
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\bin\Debug\net6.0\Clrs-Service.pdb
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\obj\Debug\net6.0\Clrs-Service.csproj.AssemblyReference.cache
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\obj\Debug\net6.0\Clrs-Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\obj\Debug\net6.0\Clrs-Service.AssemblyInfoInputs.cache
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\obj\Debug\net6.0\Clrs-Service.AssemblyInfo.cs
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\obj\Debug\net6.0\Clrs-Service.csproj.CoreCompileInputs.cache
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\obj\Debug\net6.0\Clrs-Service.dll
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\obj\Debug\net6.0\ref\Clrs-Service.dll
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Service\obj\Debug\net6.0\Clrs-Service.pdb
