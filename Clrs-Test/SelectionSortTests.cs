@@ -20,7 +20,7 @@ public class SelectionSortTests
         if(array is not null)
         {
             var selectionSort = array.Sort();
-            Assert.That(array, Is.EqualTo(selectionSort));
+            Assert.That(selectionSort, Is.EqualTo(sortedArray));
         }
     }
 }
