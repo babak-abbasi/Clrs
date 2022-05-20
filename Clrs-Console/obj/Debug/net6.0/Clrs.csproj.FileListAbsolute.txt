@@ -13,7 +13,6 @@ D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\obj\Debug\net6.0\Clrs
 D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\obj\Debug\net6.0\ref\Clrs.dll
 D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\obj\Debug\net6.0\Clrs.pdb
 D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\obj\Debug\net6.0\Clrs.genruntimeconfig.cache
-D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Console\bin\Debug\net6.0\Clrs.exe
 D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Console\bin\Debug\net6.0\Clrs.deps.json
 D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Console\bin\Debug\net6.0\Clrs.runtimeconfig.json
 D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Console\bin\Debug\net6.0\Clrs.dll
@@ -31,3 +30,4 @@ D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Console\obj\Debu
 D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Console\bin\Debug\net6.0\Clrs-Service.dll
 D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Console\bin\Debug\net6.0\Clrs-Service.pdb
 D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Console\obj\Debug\net6.0\Clrs.csproj.CopyComplete
+D:\Programming contents\Projects\Dotnet Core\Consoles\Clrs\Clrs-Console\bin\Debug\net6.0\Clrs.exe

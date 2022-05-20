@@ -1,7 +1,9 @@
-﻿using System;
-using ClrsService.InsertionMethod;
+﻿using ClrsService.InsertionSort;
+using ClrsService.SelectionSort;
 
-
-var array = new InsertionMethod(new int[]{5,2,4,6,1,3});
-var sortedArray = array.SortDescending();
-Console.Write("Hello world!");
+var array = new SelectionSort(new int[]{11, 12, 22, 25, 64});
+var sortedArray = array.Sort();
+foreach (var item in sortedArray)
+{
+    Console.Write(item + " ");   
+}

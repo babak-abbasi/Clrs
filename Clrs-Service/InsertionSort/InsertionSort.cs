@@ -1,10 +1,10 @@
-namespace ClrsService.InsertionMethod;
+namespace ClrsService.InsertionSort;
 
-public class InsertionMethod
+public class InsertionSort
 {
     private int[] array;
 
-    public InsertionMethod(int[] _input) => array = _input;
+    public InsertionSort(int[] _input) => array = _input;
 
     public int[] Sort()
     {
