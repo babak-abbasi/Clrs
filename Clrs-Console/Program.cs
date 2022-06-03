@@ -1,6 +1,5 @@
-﻿using ClrsService.InsertionSort;
-using ClrsService.SelectionSort;
-using ClrsService.MergeSort;
+﻿using ClrsService.BinarySearch;
 
-var array = new MergeSort(new int[]{9, 5, 4, 15, 25, 23});
-array.Sort();
+var array = new BinarySearch(new int[]{2, 5, 8, 112, 125, 250});
+var result = array.Find(20);
+Console.ReadLine();
