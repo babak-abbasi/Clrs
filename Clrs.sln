@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clrs", "clrs-console\clrs.csproj", "{4DC42357-11DC-47EC-810A-B2172C727A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clrs-Test", "clrs-Test\clrs-Test.csproj", "{58CAFF74-22E6-4EEA-9BB2-0E09FF6BC958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clrs-Service", "clrs-service\clrs-Service.csproj", "{903FEA59-590A-4C1D-A0B7-90D8600DE679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC42357-11DC-47EC-810A-B2172C727A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC42357-11DC-47EC-810A-B2172C727A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC42357-11DC-47EC-810A-B2172C727A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC42357-11DC-47EC-810A-B2172C727A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CAFF74-22E6-4EEA-9BB2-0E09FF6BC958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CAFF74-22E6-4EEA-9BB2-0E09FF6BC958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CAFF74-22E6-4EEA-9BB2-0E09FF6BC958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CAFF74-22E6-4EEA-9BB2-0E09FF6BC958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{903FEA59-590A-4C1D-A0B7-90D8600DE679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903FEA59-590A-4C1D-A0B7-90D8600DE679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903FEA59-590A-4C1D-A0B7-90D8600DE679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903FEA59-590A-4C1D-A0B7-90D8600DE679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
